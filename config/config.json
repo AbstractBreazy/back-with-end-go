@@ -1,0 +1,10 @@
+{
+  "DatabaseConfiguration": {
+    "engine": "postgres",
+    "server": "127.0.0.1",
+    "port": "8090",
+    "user": "username",
+    "password": "qwerty",
+    "database": "backend_with_end"
+  }
+}
